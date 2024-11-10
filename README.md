@@ -8,6 +8,9 @@ Methods provides a template that is suitable for some data data science projects
 ## Usage
 
 ### Clone the repository.
+```bash
+git clone https://github.com/faranalytics/methods.git
+```
 
 ### Change directory into the respository.
 ```bash
